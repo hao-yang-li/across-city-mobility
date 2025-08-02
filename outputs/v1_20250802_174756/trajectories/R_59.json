@@ -236,6 +236,34 @@
       ],
       "chosen_cbg": "517100028002",
       "llm_thinking": "I have visited this CBG only once before, but it offers a variety of services and places, which aligns well with my higher education level and income in Norfolk city."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100028002",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Child Day Care Services (1); Gasoline Stations (1); Health and Personal Care Stores (1); Museums, Historical Sites, and Similar Institutions (1).",
+      "from_income": 62604,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100036001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (29); Other Amusement and Recreation Industries (6); Religious Organizations (5); Used Merchandise Stores (5); Grocery Stores (4).",
+      "to_income": 75104,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100036001",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (29); Other Amusement and Recreation Industries (6); Religious Organizations (5); Used Merchandise Stores (5); Grocery Stores (4).",
+          "City": "Norfolk city",
+          "Income": 75104,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100036001",
+      "llm_thinking": "I chose this CBG because it has a higher median household income and a higher education level, which aligns with my profile, and it is new to me compared to the previously visited location, offering a fresh experience while still being familiar due to my higher education level preference."
     }
   ]
 }

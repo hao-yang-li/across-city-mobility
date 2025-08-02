@@ -227,6 +227,34 @@
       ],
       "chosen_cbg": "517100059013",
       "llm_thinking": "I chose this CBG because it has a relatively high population and a moderate distance from my current location, which aligns well with the exploration principle. Additionally, it has a diverse range of POI categories, including restaurants, which can be appealing given my medium level of education in Virginia."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100059013",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (4); Automotive Repair and Maintenance (2); Bakeries and Tortilla Manufacturing (1); Elementary and Secondary Schools (1); Gasoline Stations (1).",
+      "from_income": 33382,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100059021",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (3); Grocery Stores (2); Religious Organizations (2); Gasoline Stations (1).",
+      "to_income": 69013,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100059021",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); Grocery Stores (2); Religious Organizations (2); Gasoline Stations (1).",
+          "City": "Norfolk city",
+          "Income": 69013,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100059021",
+      "llm_thinking": "I chose this CBG because it has a higher median household income and education level similar to my own, which aligns with my profile, and I have visited it once before, making it familiar while also offering a slightly better socio-economic environment."
     }
   ]
 }

@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100424004",
       "llm_thinking": "I chose this CBG because it has a high population and is relatively close, aligning with the d-EPR exploration principle, and it offers a mix of educational and recreational facilities suitable for someone with a high education level."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100424004",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Electronics and Appliance Stores (1); Museums, Historical Sites, and Similar Institutions (1); Religious Organizations (1).",
+      "from_income": 93438,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100424004",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Electronics and Appliance Stores (1); Museums, Historical Sites, and Similar Institutions (1); Religious Organizations (1).",
+      "to_income": 93438,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100456012",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (7); Sporting Goods, Hobby, and Musical Instrument Stores (5); Other Amusement and Recreation Industries (4); Grocery Stores (2); Activities Related to Credit Intermediation (1).",
+          "City": "Virginia Beach city",
+          "Income": 76736,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100424004",
+      "llm_thinking": "Invalid CBG chosen by LLM: 518100424004. Reasoning: I chose this CBG because it aligns with my previous visits and I have a strong preference for familiar places based on the established return principle."
     }
   ]
 }

@@ -408,6 +408,42 @@
       ],
       "chosen_cbg": "517100009011",
       "llm_thinking": "I chose this CBG because it has a large population, a proximity close enough to consider, and provides a mix of amenities such as museums, historical sites, and other recreational activities, which aligns well with my profile and the exploration principle."
+    },
+    {
+      "step": 3,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "517100009011",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Other Amusement and Recreation Industries (3); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Miscellaneous Durable Goods Merchant Wholesalers (2); Restaurants and Other Eating Places (2); Colleges, Universities, and Professional Schools (1).",
+      "from_income": 47747,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "517100009021",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (21); General Merchandise Stores, including Warehouse Clubs and Supercenters (8); Other Amusement and Recreation Industries (5); Grocery Stores (3); Justice, Public Order, and Safety Activities (3).",
+      "to_income": 43750,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100011002",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (2); Religious Organizations (2); Health and Personal Care Stores (1); Nondepository Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 36892,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100009021",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (21); General Merchandise Stores, including Warehouse Clubs and Supercenters (8); Other Amusement and Recreation Industries (5); Grocery Stores (3); Justice, Public Order, and Safety Activities (3).",
+          "City": "Norfolk city",
+          "Income": 43750,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100009021",
+      "llm_thinking": "I chose this CBG because it has a higher median household income and a higher education level compared to the other options, which aligns with my profile, and I have visited it once before, making it a familiar place to return to."
     }
   ]
 }

@@ -408,6 +408,42 @@
       ],
       "chosen_cbg": "517100059011",
       "llm_thinking": "I chose this CBG because it has a larger population and a closer distance, which aligns well with the exploration principle. Additionally, it has a high income, which might offer better dining and entertainment options."
+    },
+    {
+      "step": 3,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "517100059011",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Child Day Care Services (1).",
+      "from_income": 51964,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100066064",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Automobile Dealers (3); Automotive Repair and Maintenance (2); Colleges, Universities, and Professional Schools (1); Grocery Stores (1); Junior Colleges (1).",
+      "to_income": 66917,
+      "to_education": "at a low level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100066064",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Automobile Dealers (3); Automotive Repair and Maintenance (2); Colleges, Universities, and Professional Schools (1); Grocery Stores (1); Junior Colleges (1).",
+          "City": "Norfolk city",
+          "Income": 66917,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066061",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+          "City": "Norfolk city",
+          "Income": 36106,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100066064",
+      "llm_thinking": "I chose this CBG because it has a higher median household income, which aligns with my own income level, and I have visited it once before, making it familiar to me according to my return preference."
     }
   ]
 }

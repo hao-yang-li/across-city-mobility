@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100462172",
       "llm_thinking": "I chose this CBG because it has a large population and is closer compared to other options, making it more likely to be visited based on the d-EPR exploration principle. Additionally, its high median household income and highest education level in Virginia align well with my profile."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100462172",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Automotive Repair and Maintenance (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+      "from_income": 101800,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100462131",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 58385,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462131",
+          "Visit_Count": 1,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 58385,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462131",
+      "llm_thinking": "I chose this CBG because I have visited it once before, and the return principle favors familiar places, even if it means visiting less familiar locations compared to more frequented ones."
     }
   ]
 }

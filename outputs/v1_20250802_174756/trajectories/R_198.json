@@ -408,6 +408,42 @@
       ],
       "chosen_cbg": "518100404021",
       "llm_thinking": "I chose this CBG because it has a higher population and a significant number of grocery stores, which aligns with my higher education level and income, making it a suitable and convenient choice."
+    },
+    {
+      "step": 3,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "518100404021",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Grocery Stores (3); Restaurants and Other Eating Places (3); Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly (2); Automotive Repair and Maintenance (1); Elementary and Secondary Schools (1).",
+      "from_income": 37662,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100404041",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (4); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Advertising, Public Relations, and Related Services (1); Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1).",
+      "to_income": 96029,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100404031",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Automobile Dealers (1).",
+          "City": "Virginia Beach city",
+          "Income": 53705,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100404041",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Advertising, Public Relations, and Related Services (1); Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1).",
+          "City": "Virginia Beach city",
+          "Income": 96029,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100404041",
+      "llm_thinking": "I have not visited CBG 518100404041 before, but its high median household income and high education level make it an interesting location to explore. Given my preference for new locations, this one fits well with my profile."
     }
   ]
 }

@@ -408,6 +408,42 @@
       ],
       "chosen_cbg": "517100066061",
       "llm_thinking": "I chose this CBG because it has a larger population compared to my current location and is moderately close, which aligns well with the d-EPR exploration principle."
+    },
+    {
+      "step": 3,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "517100066061",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "from_income": 36106,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100056021",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+      "to_income": 67386,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100056012",
+          "Visit_Count": 1,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 66513,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056021",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 67386,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100056021",
+      "llm_thinking": "I chose this CBG because it aligns more closely with my education level and income, and it offers more diverse POIs including outpatient care centers and child day care services, which might be beneficial."
     }
   ]
 }

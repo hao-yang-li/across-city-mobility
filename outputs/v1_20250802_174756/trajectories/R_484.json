@@ -208,6 +208,25 @@
       ],
       "chosen_cbg": "518100462252",
       "llm_thinking": "Invalid CBG chosen by LLM: 518100462341. Reasoning: I chose this CBG because it has a high population, which is close to my current location, and the presence of educational and cultural institutions aligns with my educational level and interests."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100462252",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 79190,
+      "from_education": "at a low level in Virginia",
+      "to_cbg": "518100462252",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 79190,
+      "to_education": "at a low level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100462252",
+      "llm_thinking": "Only one location visited, cannot return."
     }
   ]
 }

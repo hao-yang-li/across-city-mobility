@@ -227,6 +227,34 @@
       ],
       "chosen_cbg": "517100028004",
       "llm_thinking": "I chose this CBG because it has a larger population and is relatively close, making it a good fit according to the d-EPR exploration principle. Additionally, its high educational level aligned well with my own profile."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100028004",
+      "from_city": "Norfolk city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 76597,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "517100022001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Elementary and Secondary Schools (1); Health and Personal Care Stores (1); Offices of Other Health Practitioners (1); Offices of Physicians (1); Other Amusement and Recreation Industries (1).",
+      "to_income": 120385,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100022001",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Elementary and Secondary Schools (1); Health and Personal Care Stores (1); Offices of Other Health Practitioners (1); Offices of Physicians (1); Other Amusement and Recreation Industries (1).",
+          "City": "Norfolk city",
+          "Income": 120385,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100022001",
+      "llm_thinking": "I chose this CBG because it has a higher median household income similar to my own, and it also aligns with my preference for familiar places, as it is one of the locations I have visited before."
     }
   ]
 }

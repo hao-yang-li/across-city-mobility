@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100460111",
       "llm_thinking": "I chose this CBG because it has a large population and is moderately close, with a diverse range of POIs, including restaurants and other eating places, which align with my interest in exploring areas with a higher education level and a mix of amenities."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100460111",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (8); Other Miscellaneous Store Retailers (3); Offices of Other Health Practitioners (2); Other Amusement and Recreation Industries (2); Clothing Stores (1).",
+      "from_income": 68516,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100460062",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 104063,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100460062",
+          "Visit_Count": 1,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 104063,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100460062",
+      "llm_thinking": "I chose this CBG because it aligns with my high income and education level, and it is a new place that I have not visited frequently, making it a fresh experience aligned with the return principle."
     }
   ]
 }

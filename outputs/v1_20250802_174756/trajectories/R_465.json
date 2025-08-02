@@ -27,6 +27,25 @@
       "candidates": [],
       "chosen_cbg": "518100462192",
       "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100462192",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1).",
+      "from_income": 96389,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100462192",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1).",
+      "to_income": 96389,
+      "to_education": "at a high level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100462192",
+      "llm_thinking": "Only one location visited, cannot return."
     }
   ]
 }

@@ -236,6 +236,34 @@
       ],
       "chosen_cbg": "517100061003",
       "llm_thinking": "I chose this CBG because I have visited it once before, and the d-EPR return principle favors familiar places, especially given the higher visit count for restaurant categories which aligns with my preferences."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100061003",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Automotive Repair and Maintenance (4); Grocery Stores (2); Health and Personal Care Stores (2); Child Day Care Services (1).",
+      "from_income": 71985,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100061004",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (5); Automotive Repair and Maintenance (2); Drinking Places (Alcoholic Beverages) (1); Drycleaning and Laundry Services (1); Electronics and Appliance Stores (1).",
+      "to_income": 70298,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100061004",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (5); Automotive Repair and Maintenance (2); Drinking Places (Alcoholic Beverages) (1); Drycleaning and Laundry Services (1); Electronics and Appliance Stores (1).",
+          "City": "Norfolk city",
+          "Income": 70298,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100061004",
+      "llm_thinking": "I chose this CBG because it offers more restaurant options, which aligns with my preference for familiar places, and it has a slightly lower median household income, indicating a similar socioeconomic context."
     }
   ]
 }

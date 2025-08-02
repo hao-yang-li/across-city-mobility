@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100462062",
       "llm_thinking": "I chose this CBG because it has the highest population and a high median household income, making it a strong candidate under the exploration principle. Additionally, the presence of diverse amenities such as restaurants, museums, and religious organizations aligns well with my profile and preferences."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100462062",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (25); Museums, Historical Sites, and Similar Institutions (3); Offices of Other Health Practitioners (3); Other Amusement and Recreation Industries (3); Religious Organizations (3).",
+      "from_income": 97500,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100462111",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Offices of Dentists (3); Museums, Historical Sites, and Similar Institutions (1).",
+      "to_income": 111250,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462111",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Offices of Dentists (3); Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Virginia Beach city",
+          "Income": 111250,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462111",
+      "llm_thinking": "I chose this CBG because, while less familiar, it offers a different set of POIs such as offices of dentists which could be interesting, and since I tend to return to places I have visited, this one has the potential to be appealing despite the lower visit count."
     }
   ]
 }

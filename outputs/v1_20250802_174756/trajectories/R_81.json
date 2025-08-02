@@ -46,6 +46,25 @@
       "candidates": [],
       "chosen_cbg": "517100035014",
       "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 3,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100035014",
+      "from_city": "Norfolk city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 26875,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100035014",
+      "to_city": "Norfolk city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 26875,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100035014",
+      "llm_thinking": "Only one location visited, cannot return."
     }
   ]
 }

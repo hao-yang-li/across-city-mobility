@@ -236,6 +236,34 @@
       ],
       "chosen_cbg": "518100408023",
       "llm_thinking": "Invalid CBG chosen by LLM: 518100408023. Reasoning: I chose this CBG because I have visited it previously and the d-EPR return principle favors familiar places over less familiar ones, despite the lower median household income of the other option."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100408023",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Elementary and Secondary Schools (3); Museums, Historical Sites, and Similar Institutions (2); Advertising, Public Relations, and Related Services (1); Child Day Care Services (1); Clothing Stores (1).",
+      "from_income": 76625,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100406002",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Automobile Dealers (2); Furniture Stores (2); Restaurants and Other Eating Places (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Drinking Places (Alcoholic Beverages) (1).",
+      "to_income": 41123,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100406002",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Automobile Dealers (2); Furniture Stores (2); Restaurants and Other Eating Places (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Drinking Places (Alcoholic Beverages) (1).",
+          "City": "Virginia Beach city",
+          "Income": 41123,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100406002",
+      "llm_thinking": "I chose this CBG because I have visited it once before and the d-EPR return principle favors familiar places."
     }
   ]
 }

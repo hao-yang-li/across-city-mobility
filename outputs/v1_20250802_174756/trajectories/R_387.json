@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100458071",
       "llm_thinking": "I chose this CBG because it offers a variety of dining options and services suitable for my income level, while also being within a reasonable distance."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100458071",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Agencies, Brokerages, and Other Insurance Related Activities (1); Grocery Stores (1); Health and Personal Care Stores (1); Nursing Care Facilities (Skilled Nursing Facilities) (1).",
+      "from_income": 54000,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100458031",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (4); Other Miscellaneous Store Retailers (3); Health and Personal Care Stores (2); Automotive Repair and Maintenance (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+      "to_income": 59859,
+      "to_education": "at a low level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100458031",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Other Miscellaneous Store Retailers (3); Health and Personal Care Stores (2); Automotive Repair and Maintenance (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+          "City": "Virginia Beach city",
+          "Income": 59859,
+          "Education": "at a low level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100458031",
+      "llm_thinking": "I chose this CBG because it has a similar visit count and its median household income matches my income, making it a familiar and suitable place to return to."
     }
   ]
 }

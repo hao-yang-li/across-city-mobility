@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100462133",
       "llm_thinking": "I chose this CBG because it has a larger population and a higher median household income compared to my current location, making it a more attractive and diverse area to explore, despite the closer proximity to my current location which also contributes significantly."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100462133",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (4); Grocery Stores (3); Health and Personal Care Stores (2); Lessors of Real Estate (2); Beer, Wine, and Liquor Stores (1).",
+      "from_income": 42768,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100462113",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Offices of Dentists (4); Restaurants and Other Eating Places (3); Other Amusement and Recreation Industries (2); Foundation, Structure, and Building Exterior Contractors (1); Other Schools and Instruction (1).",
+      "to_income": 105398,
+      "to_education": "at a low level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462113",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Offices of Dentists (4); Restaurants and Other Eating Places (3); Other Amusement and Recreation Industries (2); Foundation, Structure, and Building Exterior Contractors (1); Other Schools and Instruction (1).",
+          "City": "Virginia Beach city",
+          "Income": 105398,
+          "Education": "at a low level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462113",
+      "llm_thinking": "I chose this CBG because even though the median household income is higher and the education level is lower compared to my current location, the fact that I have visited it once and the return principle prefers familiar places, makes it a more likely choice for a return visit."
     }
   ]
 }

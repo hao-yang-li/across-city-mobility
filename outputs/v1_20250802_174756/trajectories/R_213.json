@@ -236,6 +236,34 @@
       ],
       "chosen_cbg": "518100408022",
       "llm_thinking": "I chose this CBG because I have visited it once before, and my return preference tends to favor locations I am familiar with."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100408022",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 65500,
+      "from_education": "at a low level in Virginia",
+      "to_cbg": "518100408023",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Elementary and Secondary Schools (3); Museums, Historical Sites, and Similar Institutions (2); Advertising, Public Relations, and Related Services (1); Child Day Care Services (1); Clothing Stores (1).",
+      "to_income": 76625,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100408023",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Elementary and Secondary Schools (3); Museums, Historical Sites, and Similar Institutions (2); Advertising, Public Relations, and Related Services (1); Child Day Care Services (1); Clothing Stores (1).",
+          "City": "Virginia Beach city",
+          "Income": 76625,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100408023",
+      "llm_thinking": "I chose this CBG because it offers educational and cultural opportunities which align with my current education level, despite the higher median household income, and it has been a place I have visited before, making it familiar and likely to meet my preferences."
     }
   ]
 }
