@@ -1,0 +1,18 @@
+version: "v1"
+num_steps: 100
+output_base_dir: "outputs"
+llm:
+  model_name: "Qwen/Qwen2.5-7B-Instruct"
+  platform: "siliconflow"
+  api_key: "api-key-here"
+data_files:
+  cbg_stats: "data/Geographic_Stastistics/Basic_Geographic_Statistics_CBG_filtered.csv"
+  cbg_summary: "data/Geographic_Stastistics/norfolk_virginia_beach_VA_CBG_summary.csv"
+  cbg_city_lookup: "data/Geographic_Stastistics/Geographic_Lookup_Table_Between_City_CBG_filtered.csv"
+  cbg_poverty: "data/Geographic_Stastistics/Poverty_CBG_level_filtered.csv"
+  cbg_education: "data/Geographic_Stastistics/CBG_Education_Level_VA_2019.csv"
+cities:
+  - "Norfolk city"
+  - "Virginia Beach city"
+year_filter: 2019
+top_candidate_count: 20 # 探索时提供给 LLM 的候选 CBG 数量
