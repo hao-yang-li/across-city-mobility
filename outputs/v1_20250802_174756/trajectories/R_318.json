@@ -208,6 +208,34 @@
       ],
       "chosen_cbg": "518100444023",
       "llm_thinking": "I chose this CBG because it has a high population and a very high median household income, which aligns with my own profile, and it is moderately close, meeting the d-EPR exploration principle."
+    },
+    {
+      "step": 2,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "518100444023",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Offices of Other Health Practitioners (5); Offices of Physicians (4); Electronics and Appliance Stores (1); Elementary and Secondary Schools (1); Grocery Stores (1).",
+      "from_income": 113665,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100448074",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (3); Other Amusement and Recreation Industries (2); Other Miscellaneous Store Retailers (2); Clothing Stores (1); Drinking Places (Alcoholic Beverages) (1).",
+      "to_income": 117518,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100448074",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); Other Amusement and Recreation Industries (2); Other Miscellaneous Store Retailers (2); Clothing Stores (1); Drinking Places (Alcoholic Beverages) (1).",
+          "City": "Virginia Beach city",
+          "Income": 117518,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100448074",
+      "llm_thinking": "I chose this CBG because I have visited it once before and the principle of preferring familiar places aligns with my behavior. Additionally, the higher median household income closer to my own is also a positive factor."
     }
   ]
 }
