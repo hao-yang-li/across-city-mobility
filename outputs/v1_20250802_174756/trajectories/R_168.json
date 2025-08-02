@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "168",
+    "City": "Norfolk city",
+    "CBG": 517100066061,
+    "Income": 36106,
+    "Population": 1808,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "517100066061",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100066061",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "from_income": 36106,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100066061",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "to_income": 36106,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100066061",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100066061",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "from_income": 36106,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100066061",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "to_income": 36106,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100066061",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

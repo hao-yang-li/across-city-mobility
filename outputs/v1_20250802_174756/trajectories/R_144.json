@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "144",
+    "City": "Norfolk city",
+    "CBG": 517100060001,
+    "Income": 44625,
+    "Population": 840,
+    "Higher_Edu": "Lowest"
+  },
+  "initial_cbg": "517100060001",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100060001",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Drinking Places (Alcoholic Beverages) (1); Postal Service (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "from_income": 44625,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100060001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Drinking Places (Alcoholic Beverages) (1); Postal Service (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "to_income": 44625,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100060001",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100060001",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Drinking Places (Alcoholic Beverages) (1); Postal Service (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "from_income": 44625,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100060001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Drinking Places (Alcoholic Beverages) (1); Postal Service (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "to_income": 44625,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100060001",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "452",
+    "City": "Virginia Beach city",
+    "CBG": 518100462132,
+    "Income": 74583,
+    "Population": 714,
+    "Higher_Edu": "Lowest"
+  },
+  "initial_cbg": "518100462132",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100462132",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (7); Grocery Stores (2); Bakeries and Tortilla Manufacturing (1); Gasoline Stations (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+      "from_income": 74583,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "518100462132",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (7); Grocery Stores (2); Bakeries and Tortilla Manufacturing (1); Gasoline Stations (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+      "to_income": 74583,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100462132",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

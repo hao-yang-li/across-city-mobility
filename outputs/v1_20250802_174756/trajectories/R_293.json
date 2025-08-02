@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "293",
+    "City": "Virginia Beach city",
+    "CBG": 518100440041,
+    "Income": 50977,
+    "Population": 1212,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100440041",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100440041",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (53); Traveler Accommodation (17); Drinking Places (Alcoholic Beverages) (7); Other Amusement and Recreation Industries (6); Grocery Stores (3).",
+      "from_income": 50977,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100440041",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (53); Traveler Accommodation (17); Drinking Places (Alcoholic Beverages) (7); Other Amusement and Recreation Industries (6); Grocery Stores (3).",
+      "to_income": 50977,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100440041",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100440041",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (53); Traveler Accommodation (17); Drinking Places (Alcoholic Beverages) (7); Other Amusement and Recreation Industries (6); Grocery Stores (3).",
+      "from_income": 50977,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100440041",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (53); Traveler Accommodation (17); Drinking Places (Alcoholic Beverages) (7); Other Amusement and Recreation Industries (6); Grocery Stores (3).",
+      "to_income": 50977,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100440041",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

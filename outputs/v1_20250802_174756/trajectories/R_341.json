@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "341",
+    "City": "Virginia Beach city",
+    "CBG": 518100454082,
+    "Income": 62708,
+    "Population": 903,
+    "Higher_Edu": "Lowest"
+  },
+  "initial_cbg": "518100454082",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100454082",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Personal Care Services (1).",
+      "from_income": 62708,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "518100454082",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Personal Care Services (1).",
+      "to_income": 62708,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100454082",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

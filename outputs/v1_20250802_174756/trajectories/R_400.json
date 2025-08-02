@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "400",
+    "City": "Virginia Beach city",
+    "CBG": 518100458101,
+    "Income": 31250,
+    "Population": 2012,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100458101",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100458101",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Grocery Stores (4); Child Day Care Services (2); Elementary and Secondary Schools (2); Automotive Parts, Accessories, and Tire Stores (1).",
+      "from_income": 31250,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100458101",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (5); Grocery Stores (4); Child Day Care Services (2); Elementary and Secondary Schools (2); Automotive Parts, Accessories, and Tire Stores (1).",
+      "to_income": 31250,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100458101",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

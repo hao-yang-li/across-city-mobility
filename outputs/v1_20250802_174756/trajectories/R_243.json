@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "243",
+    "City": "Virginia Beach city",
+    "CBG": 518100418024,
+    "Income": 85833,
+    "Population": 2307,
+    "Higher_Edu": "Highest"
+  },
+  "initial_cbg": "518100418024",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100418024",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Child Day Care Services (2); Religious Organizations (2); Automotive Parts, Accessories, and Tire Stores (1); Elementary and Secondary Schools (1).",
+      "from_income": 85833,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100418024",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (5); Child Day Care Services (2); Religious Organizations (2); Automotive Parts, Accessories, and Tire Stores (1); Elementary and Secondary Schools (1).",
+      "to_income": 85833,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100418024",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100418024",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Child Day Care Services (2); Religious Organizations (2); Automotive Parts, Accessories, and Tire Stores (1); Elementary and Secondary Schools (1).",
+      "from_income": 85833,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100418024",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (5); Child Day Care Services (2); Religious Organizations (2); Automotive Parts, Accessories, and Tire Stores (1); Elementary and Secondary Schools (1).",
+      "to_income": 85833,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100418024",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

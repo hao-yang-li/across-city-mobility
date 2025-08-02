@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "425",
+    "City": "Virginia Beach city",
+    "CBG": 518100460132,
+    "Income": 52339,
+    "Population": 1712,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100460132",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100460132",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Building Finishing Contractors (1); Child Day Care Services (1); Depository Credit Intermediation (1); Miscellaneous Durable Goods Merchant Wholesalers (1); Offices of Physicians (1).",
+      "from_income": 52339,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100460132",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Building Finishing Contractors (1); Child Day Care Services (1); Depository Credit Intermediation (1); Miscellaneous Durable Goods Merchant Wholesalers (1); Offices of Physicians (1).",
+      "to_income": 52339,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100460132",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

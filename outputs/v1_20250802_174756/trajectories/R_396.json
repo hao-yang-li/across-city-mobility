@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "396",
+    "City": "Virginia Beach city",
+    "CBG": 518100458091,
+    "Income": 85038,
+    "Population": 1268,
+    "Higher_Edu": "Lowest"
+  },
+  "initial_cbg": "518100458091",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100458091",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (2); Automotive Parts, Accessories, and Tire Stores (1); Depository Credit Intermediation (1); Drycleaning and Laundry Services (1); Gasoline Stations (1).",
+      "from_income": 85038,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "518100458091",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (2); Automotive Parts, Accessories, and Tire Stores (1); Depository Credit Intermediation (1); Drycleaning and Laundry Services (1); Gasoline Stations (1).",
+      "to_income": 85038,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100458091",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

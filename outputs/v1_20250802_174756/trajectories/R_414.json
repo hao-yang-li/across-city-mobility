@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "414",
+    "City": "Virginia Beach city",
+    "CBG": 518100460092,
+    "Income": 55875,
+    "Population": 1354,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100460092",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100460092",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (1).",
+      "from_income": 55875,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100460092",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (1).",
+      "to_income": 55875,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100460092",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

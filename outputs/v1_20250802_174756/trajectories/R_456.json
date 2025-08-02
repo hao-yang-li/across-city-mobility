@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "456",
+    "City": "Virginia Beach city",
+    "CBG": 518100462142,
+    "Income": 123333,
+    "Population": 823,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100462142",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100462142",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 123333,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100462142",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 123333,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100462142",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

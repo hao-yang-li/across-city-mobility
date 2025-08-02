@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "61",
+    "City": "Norfolk city",
+    "CBG": 517100028004,
+    "Income": 76597,
+    "Population": 1590,
+    "Higher_Edu": "Highest"
+  },
+  "initial_cbg": "517100028004",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100028004",
+      "from_city": "Norfolk city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 76597,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "517100028004",
+      "to_city": "Norfolk city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 76597,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100028004",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100028004",
+      "from_city": "Norfolk city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 76597,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "517100028004",
+      "to_city": "Norfolk city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 76597,
+      "to_education": "at the highest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100028004",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

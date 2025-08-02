@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "287",
+    "City": "Virginia Beach city",
+    "CBG": 518100440014,
+    "Income": 48942,
+    "Population": 1277,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "518100440014",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100440014",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Other Amusement and Recreation Industries (2); Personal Care Services (2); Child Day Care Services (1); Individual and Family Services (1); Offices of Other Health Practitioners (1).",
+      "from_income": 48942,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100440014",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Other Amusement and Recreation Industries (2); Personal Care Services (2); Child Day Care Services (1); Individual and Family Services (1); Offices of Other Health Practitioners (1).",
+      "to_income": 48942,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100440014",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100440014",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Other Amusement and Recreation Industries (2); Personal Care Services (2); Child Day Care Services (1); Individual and Family Services (1); Offices of Other Health Practitioners (1).",
+      "from_income": 48942,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100440014",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Other Amusement and Recreation Industries (2); Personal Care Services (2); Child Day Care Services (1); Individual and Family Services (1); Offices of Other Health Practitioners (1).",
+      "to_income": 48942,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100440014",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

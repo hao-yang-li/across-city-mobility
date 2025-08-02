@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "146",
+    "City": "Norfolk city",
+    "CBG": 517100060003,
+    "Income": 52237,
+    "Population": 1548,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "517100060003",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100060003",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Grocery Stores (2); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "from_income": 52237,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100060003",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Grocery Stores (2); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "to_income": 52237,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100060003",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100060003",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Grocery Stores (2); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "from_income": 52237,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100060003",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Grocery Stores (2); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+      "to_income": 52237,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100060003",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

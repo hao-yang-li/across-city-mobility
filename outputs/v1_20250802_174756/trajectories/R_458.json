@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "458",
+    "City": "Virginia Beach city",
+    "CBG": 518100462144,
+    "Income": 71964,
+    "Population": 1132,
+    "Higher_Edu": "High"
+  },
+  "initial_cbg": "518100462144",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100462144",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1); Offices of Dentists (1); Other Schools and Instruction (1).",
+      "from_income": 71964,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100462144",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1); Offices of Dentists (1); Other Schools and Instruction (1).",
+      "to_income": 71964,
+      "to_education": "at a high level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100462144",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

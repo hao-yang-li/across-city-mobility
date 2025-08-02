@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "339",
+    "City": "Virginia Beach city",
+    "CBG": 518100454074,
+    "Income": 80833,
+    "Population": 1252,
+    "Higher_Edu": "Lowest"
+  },
+  "initial_cbg": "518100454074",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100454074",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (44); Automotive Repair and Maintenance (13); Other Amusement and Recreation Industries (12); Sporting Goods, Hobby, and Musical Instrument Stores (10); Electronics and Appliance Stores (6).",
+      "from_income": 80833,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "518100454074",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (44); Automotive Repair and Maintenance (13); Other Amusement and Recreation Industries (12); Sporting Goods, Hobby, and Musical Instrument Stores (10); Electronics and Appliance Stores (6).",
+      "to_income": 80833,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100454074",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "133",
+    "City": "Norfolk city",
+    "CBG": 517100058002,
+    "Income": 35438,
+    "Population": 2020,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "517100058002",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100058002",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Child Day Care Services (3); Elementary and Secondary Schools (2); Grocery Stores (1); Religious Organizations (1).",
+      "from_income": 35438,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100058002",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Child Day Care Services (3); Elementary and Secondary Schools (2); Grocery Stores (1); Religious Organizations (1).",
+      "to_income": 35438,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100058002",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100058002",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Child Day Care Services (3); Elementary and Secondary Schools (2); Grocery Stores (1); Religious Organizations (1).",
+      "from_income": 35438,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100058002",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Child Day Care Services (3); Elementary and Secondary Schools (2); Grocery Stores (1); Religious Organizations (1).",
+      "to_income": 35438,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100058002",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

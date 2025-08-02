@@ -1,0 +1,32 @@
+{
+  "agent_profile": {
+    "id": "424",
+    "City": "Virginia Beach city",
+    "CBG": 518100460131,
+    "Income": 76833,
+    "Population": 1596,
+    "Higher_Edu": "High"
+  },
+  "initial_cbg": "518100460131",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "518100460131",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Personal Care Services (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Administration of Economic Programs (1); Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly (1).",
+      "from_income": 76833,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100460131",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Personal Care Services (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Administration of Economic Programs (1); Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly (1).",
+      "to_income": 76833,
+      "to_education": "at a high level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "518100460131",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}

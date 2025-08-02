@@ -1,0 +1,51 @@
+{
+  "agent_profile": {
+    "id": "92",
+    "City": "Norfolk city",
+    "CBG": 517100040024,
+    "Income": 33889,
+    "Population": 437,
+    "Higher_Edu": "Medium"
+  },
+  "initial_cbg": "517100040024",
+  "migration_history": [
+    {
+      "step": 1,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100040024",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Child Day Care Services (1); Drinking Places (Alcoholic Beverages) (1); Museums, Historical Sites, and Similar Institutions (1); Other Amusement and Recreation Industries (1).",
+      "from_income": 33889,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100040024",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Child Day Care Services (1); Drinking Places (Alcoholic Beverages) (1); Museums, Historical Sites, and Similar Institutions (1); Other Amusement and Recreation Industries (1).",
+      "to_income": 33889,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100040024",
+      "llm_thinking": "Only one location visited, cannot return."
+    },
+    {
+      "step": 2,
+      "S": 1,
+      "P_new": 0.6,
+      "action": "return",
+      "from_cbg": "517100040024",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Child Day Care Services (1); Drinking Places (Alcoholic Beverages) (1); Museums, Historical Sites, and Similar Institutions (1); Other Amusement and Recreation Industries (1).",
+      "from_income": 33889,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100040024",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Child Day Care Services (1); Drinking Places (Alcoholic Beverages) (1); Museums, Historical Sites, and Similar Institutions (1); Other Amusement and Recreation Industries (1).",
+      "to_income": 33889,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [],
+      "chosen_cbg": "517100040024",
+      "llm_thinking": "Only one location visited, cannot return."
+    }
+  ]
+}
