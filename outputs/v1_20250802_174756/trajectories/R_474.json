@@ -227,6 +227,478 @@
       ],
       "chosen_cbg": "518100462172",
       "llm_thinking": "I chose this CBG because it has a large population, is moderately close, and offers amenities such as museums and historical sites, which align well with my interest in higher education and cultural attractions."
+    },
+    {
+      "step": 3,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "explore",
+      "from_cbg": "518100462172",
+      "from_city": "Virginia Beach city",
+      "from_summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Automotive Repair and Maintenance (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+      "from_income": 101800,
+      "from_education": "at the highest level in Virginia",
+      "to_cbg": "518100462242",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 104625,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462224",
+          "Population": 1215,
+          "Distance": 1376.9609972725561,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Virginia Beach city",
+          "Income": 97656,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462243",
+          "Population": 1533,
+          "Distance": 1819.9704330045276,
+          "Summary": "Top POI categories: Gasoline Stations (1); Restaurants and Other Eating Places (1).",
+          "City": "Virginia Beach city",
+          "Income": 83333,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462242",
+          "Population": 1186,
+          "Distance": 1814.9404288995856,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 104625,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462162",
+          "Population": 1952,
+          "Distance": 2511.436051728081,
+          "Summary": "Top POI categories: Offices of Dentists (1); Religious Organizations (1).",
+          "City": "Virginia Beach city",
+          "Income": 106481,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462241",
+          "Population": 1554,
+          "Distance": 2258.6084760072267,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 67917,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462131",
+          "Population": 2277,
+          "Distance": 2737.4106236174634,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 58385,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462163",
+          "Population": 1554,
+          "Distance": 2485.0300078237096,
+          "Summary": "Top POI categories: Elementary and Secondary Schools (1); Outpatient Care Centers (1).",
+          "City": "Virginia Beach city",
+          "Income": 133304,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462223",
+          "Population": 667,
+          "Distance": 1644.9490004178024,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 96250,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462133",
+          "Population": 1844,
+          "Distance": 2776.173867014919,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Grocery Stores (3); Health and Personal Care Stores (2); Lessors of Real Estate (2); Beer, Wine, and Liquor Stores (1).",
+          "City": "Virginia Beach city",
+          "Income": 42768,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462221",
+          "Population": 1573,
+          "Distance": 2609.538277272924,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (12); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Lessors of Real Estate (2); Other Schools and Instruction (2); Bakeries and Tortilla Manufacturing (1).",
+          "City": "Virginia Beach city",
+          "Income": 100469,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462171",
+          "Population": 1006,
+          "Distance": 2134.0621507166707,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 100764,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462233",
+          "Population": 871,
+          "Distance": 2072.5282640898627,
+          "Summary": "Top POI categories: Religious Organizations (1).",
+          "City": "Virginia Beach city",
+          "Income": 112841,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462225",
+          "Population": 670,
+          "Distance": 1901.3198969091368,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Offices of Physicians (1).",
+          "City": "Virginia Beach city",
+          "Income": 81544,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462192",
+          "Population": 2233,
+          "Distance": 3630.3302850374166,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Virginia Beach city",
+          "Income": 96389,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462253",
+          "Population": 1576,
+          "Distance": 3055.499085257885,
+          "Summary": "Top POI categories: Elementary and Secondary Schools (2); Justice, Public Order, and Safety Activities (1); Museums, Historical Sites, and Similar Institutions (1); Other Amusement and Recreation Industries (1).",
+          "City": "Virginia Beach city",
+          "Income": 102875,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462071",
+          "Population": 2425,
+          "Distance": 3822.314118039804,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Offices of Dentists (3); Elementary and Secondary Schools (2); Offices of Real Estate Agents and Brokers (2); Other Schools and Instruction (2).",
+          "City": "Virginia Beach city",
+          "Income": 81912,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462252",
+          "Population": 1455,
+          "Distance": 2993.1295025027457,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 79190,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462191",
+          "Population": 1478,
+          "Distance": 3071.037712275633,
+          "Summary": "Top POI categories: Lessors of Real Estate (2); Other Amusement and Recreation Industries (2); Elementary and Secondary Schools (1); Museums, Historical Sites, and Similar Institutions (1); Offices of Dentists (1).",
+          "City": "Virginia Beach city",
+          "Income": 59679,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462073",
+          "Population": 3213,
+          "Distance": 4540.936724112103,
+          "Summary": "Top POI categories: Child Day Care Services (2); Restaurants and Other Eating Places (2); Beverage Manufacturing (1); Colleges, Universities, and Professional Schools (1); Elementary and Secondary Schools (1).",
+          "City": "Virginia Beach city",
+          "Income": 44925,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462222",
+          "Population": 988,
+          "Distance": 2538.72885977253,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 96447,
+          "Education": "at a low level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462242",
+      "llm_thinking": "I chose this CBG because it has a high population, high education level, and a moderate distance, aligning well with the d-EPR exploration principle and my educational background."
+    },
+    {
+      "step": 4,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "518100462242",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 104625,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100462242",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 104625,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462223",
+          "Visit_Count": 1,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 96250,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462172",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Automotive Repair and Maintenance (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+          "City": "Virginia Beach city",
+          "Income": 101800,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462242",
+      "llm_thinking": "Invalid CBG chosen by LLM: 51810046223. Reasoning: I chose this CBG because I have visited it once before and it has a median household income similar to my own, which aligns with my profile. Although it has fewer POIs, it still fits my preference for returning to familiar places."
+    },
+    {
+      "step": 5,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "return",
+      "from_cbg": "518100462242",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 104625,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "518100462223",
+      "to_city": "Virginia Beach city",
+      "to_summary": "No known POIs available for preview in this CBG.",
+      "to_income": 96250,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462223",
+          "Visit_Count": 1,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 96250,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462172",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Automotive Repair and Maintenance (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+          "City": "Virginia Beach city",
+          "Income": 101800,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462223",
+      "llm_thinking": "I chose this CBG because I have visited it before, and despite having visited it only once, the d-EPR return principle prefers familiar places over new ones, which aligns with my behavior."
+    },
+    {
+      "step": 6,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "explore",
+      "from_cbg": "518100462223",
+      "from_city": "Virginia Beach city",
+      "from_summary": "No known POIs available for preview in this CBG.",
+      "from_income": 96250,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "518100462134",
+      "to_city": "Virginia Beach city",
+      "to_summary": "Top POI categories: Miscellaneous Durable Goods Merchant Wholesalers (1).",
+      "to_income": 63900,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "518100462224",
+          "Population": 1215,
+          "Distance": 272.311765440488,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Virginia Beach city",
+          "Income": 97656,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462233",
+          "Population": 871,
+          "Distance": 446.06032912105906,
+          "Summary": "Top POI categories: Religious Organizations (1).",
+          "City": "Virginia Beach city",
+          "Income": 112841,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462172",
+          "Population": 3587,
+          "Distance": 1644.9490004178024,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Automotive Repair and Maintenance (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+          "City": "Virginia Beach city",
+          "Income": 101800,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462133",
+          "Population": 1844,
+          "Distance": 1238.8669855899655,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Grocery Stores (3); Health and Personal Care Stores (2); Lessors of Real Estate (2); Beer, Wine, and Liquor Stores (1).",
+          "City": "Virginia Beach city",
+          "Income": 42768,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462231",
+          "Population": 1057,
+          "Distance": 1104.620356569156,
+          "Summary": "Top POI categories: Child Day Care Services (3); Automotive Repair and Maintenance (2); Grocery Stores (2); Offices of Dentists (2); Elementary and Secondary Schools (1).",
+          "City": "Virginia Beach city",
+          "Income": 87143,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462131",
+          "Population": 2277,
+          "Distance": 1663.8459574927285,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 58385,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462232",
+          "Population": 833,
+          "Distance": 1018.5019860788651,
+          "Summary": "Top POI categories: Religious Organizations (1).",
+          "City": "Virginia Beach city",
+          "Income": 89375,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462243",
+          "Population": 1533,
+          "Distance": 1418.0956020099657,
+          "Summary": "Top POI categories: Gasoline Stations (1); Restaurants and Other Eating Places (1).",
+          "City": "Virginia Beach city",
+          "Income": 83333,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462221",
+          "Population": 1573,
+          "Distance": 1711.3916542778716,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (12); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Lessors of Real Estate (2); Other Schools and Instruction (2); Bakeries and Tortilla Manufacturing (1).",
+          "City": "Virginia Beach city",
+          "Income": 100469,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462134",
+          "Population": 1249,
+          "Distance": 1722.8016702415912,
+          "Summary": "Top POI categories: Miscellaneous Durable Goods Merchant Wholesalers (1).",
+          "City": "Virginia Beach city",
+          "Income": 63900,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462071",
+          "Population": 2425,
+          "Distance": 2411.2684335092526,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Offices of Dentists (3); Elementary and Secondary Schools (2); Offices of Real Estate Agents and Brokers (2); Other Schools and Instruction (2).",
+          "City": "Virginia Beach city",
+          "Income": 81912,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462241",
+          "Population": 1554,
+          "Distance": 1943.0248207475202,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 67917,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462225",
+          "Population": 670,
+          "Distance": 1310.4967112045706,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Offices of Physicians (1).",
+          "City": "Virginia Beach city",
+          "Income": 81544,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462122",
+          "Population": 1509,
+          "Distance": 2201.9620749532032,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 90363,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462062",
+          "Population": 2547,
+          "Distance": 2950.8559790003974,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (25); Museums, Historical Sites, and Similar Institutions (3); Offices of Other Health Practitioners (3); Other Amusement and Recreation Industries (3); Religious Organizations (3).",
+          "City": "Virginia Beach city",
+          "Income": 97500,
+          "Education": "at the highest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462113",
+          "Population": 844,
+          "Distance": 1763.774258564003,
+          "Summary": "Top POI categories: Offices of Dentists (4); Restaurants and Other Eating Places (3); Other Amusement and Recreation Industries (2); Foundation, Structure, and Building Exterior Contractors (1); Other Schools and Instruction (1).",
+          "City": "Virginia Beach city",
+          "Income": 105398,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462242",
+          "Population": 1186,
+          "Distance": 2137.901239215071,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Virginia Beach city",
+          "Income": 104625,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462072",
+          "Population": 1325,
+          "Distance": 2266.6560996256167,
+          "Summary": "Top POI categories: Sporting Goods, Hobby, and Musical Instrument Stores (1).",
+          "City": "Virginia Beach city",
+          "Income": 91297,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462132",
+          "Population": 714,
+          "Distance": 1667.6391477093998,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (7); Grocery Stores (2); Bakeries and Tortilla Manufacturing (1); Gasoline Stations (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+          "City": "Virginia Beach city",
+          "Income": 74583,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "518100462073",
+          "Population": 3213,
+          "Distance": 3601.4531930873936,
+          "Summary": "Top POI categories: Child Day Care Services (2); Restaurants and Other Eating Places (2); Beverage Manufacturing (1); Colleges, Universities, and Professional Schools (1); Elementary and Secondary Schools (1).",
+          "City": "Virginia Beach city",
+          "Income": 44925,
+          "Education": "at the highest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "518100462134",
+      "llm_thinking": "I chose this CBG because it has a medium level of education, which matches my profile, and a relatively close distance, making it a suitable candidate according to the exploration principle."
     }
   ]
 }

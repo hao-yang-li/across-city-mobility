@@ -427,6 +427,658 @@
       ],
       "chosen_cbg": "517100007002",
       "llm_thinking": "I chose this CBG because it offers a higher median household income and a more educated environment, which aligns with my higher education level in Virginia, and it is moderately close, making it a reasonable and appealing destination."
+    },
+    {
+      "step": 4,
+      "S": 3,
+      "P_new": 0.47638248648336795,
+      "action": "explore",
+      "from_cbg": "517100007002",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (4); Elementary and Secondary Schools (2); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+      "from_income": 78577,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "517100056014",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (3); Personal Care Services (2); Religious Organizations (2); Automotive Repair and Maintenance (1); Child Day Care Services (1).",
+      "to_income": 74167,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100006003",
+          "Population": 2572,
+          "Distance": 1039.4929995238986,
+          "Summary": "Top POI categories: Automotive Repair and Maintenance (1); Child Day Care Services (1); Elementary and Secondary Schools (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 42647,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100006002",
+          "Population": 883,
+          "Distance": 698.0746669585294,
+          "Summary": "Top POI categories: Other Miscellaneous Manufacturing (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 78750,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100007001",
+          "Population": 1143,
+          "Distance": 890.616358793322,
+          "Summary": "Top POI categories: Gasoline Stations (1); Grocery Stores (1); Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Norfolk city",
+          "Income": 73371,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100006001",
+          "Population": 718,
+          "Distance": 812.0954416634214,
+          "Summary": "Top POI categories: Child Day Care Services (1); Elementary and Secondary Schools (1).",
+          "City": "Norfolk city",
+          "Income": 56813,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055001",
+          "Population": 1215,
+          "Distance": 1231.7147543195913,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Restaurants and Other Eating Places (2); Gasoline Stations (1); Other Amusement and Recreation Industries (1); Postal Service (1).",
+          "City": "Norfolk city",
+          "Income": 63646,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056014",
+          "Population": 1576,
+          "Distance": 1437.4356303684042,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); Personal Care Services (2); Religious Organizations (2); Automotive Repair and Maintenance (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 74167,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100008001",
+          "Population": 1047,
+          "Distance": 1305.3823513250684,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 53906,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100005002",
+          "Population": 1149,
+          "Distance": 1479.6060932919415,
+          "Summary": "Top POI categories: Grocery Stores (2); Activities Related to Credit Intermediation (1); Child Day Care Services (1); Management, Scientific, and Technical Consulting Services (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 54688,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100003001",
+          "Population": 1253,
+          "Distance": 1802.5232718401483,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (3); Elementary and Secondary Schools (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1); Grocery Stores (1); Other Amusement and Recreation Industries (1).",
+          "City": "Norfolk city",
+          "Income": 60639,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002022",
+          "Population": 1023,
+          "Distance": 1648.9054862741725,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (2); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 51471,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002023",
+          "Population": 897,
+          "Distance": 1572.0970764797162,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 51375,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002011",
+          "Population": 1433,
+          "Distance": 2027.346705285199,
+          "Summary": "Top POI categories: Offices of Real Estate Agents and Brokers (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+          "City": "Norfolk city",
+          "Income": 44438,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055003",
+          "Population": 982,
+          "Distance": 1685.7557132522654,
+          "Summary": "Top POI categories: Offices of Dentists (4); Offices of Physicians (1).",
+          "City": "Norfolk city",
+          "Income": 56500,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057011",
+          "Population": 2442,
+          "Distance": 2857.316086099187,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (11); Elementary and Secondary Schools (2); Health and Personal Care Stores (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Activities Related to Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 36738,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056022",
+          "Population": 1277,
+          "Distance": 2079.125543921066,
+          "Summary": "Top POI categories: Automotive Repair and Maintenance (3); Elementary and Secondary Schools (3); Restaurants and Other Eating Places (3); Automotive Parts, Accessories, and Tire Stores (2); Other Miscellaneous Store Retailers (2).",
+          "City": "Norfolk city",
+          "Income": 44432,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056023",
+          "Population": 853,
+          "Distance": 1706.3342066842338,
+          "Summary": "Top POI categories: Personal and Household Goods Repair and Maintenance (1).",
+          "City": "Norfolk city",
+          "Income": 69432,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100005001",
+          "Population": 735,
+          "Distance": 1623.4531753646215,
+          "Summary": "Top POI categories: Other Amusement and Recreation Industries (2); Restaurants and Other Eating Places (2); Grocery Stores (1); Justice, Public Order, and Safety Activities (1).",
+          "City": "Norfolk city",
+          "Income": 53697,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057013",
+          "Population": 1563,
+          "Distance": 2386.4931228295795,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Amusement Parks and Arcades (1); Child Day Care Services (1); Depository Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 35231,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100008002",
+          "Population": 942,
+          "Distance": 1991.9866488849232,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 39000,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055002",
+          "Population": 677,
+          "Distance": 1693.7743647002922,
+          "Summary": "Top POI categories: General Merchandise Stores, including Warehouse Clubs and Supercenters (1); Other Schools and Instruction (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 35577,
+          "Education": "at the lowest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100056014",
+      "llm_thinking": "I chose this CBG because it has a relatively high population and medium distance, and it offers a good mix of dining and educational options, which aligns with my preferences and the exploration principle."
+    },
+    {
+      "step": 5,
+      "S": 4,
+      "P_new": 0.44845477459048155,
+      "action": "explore",
+      "from_cbg": "517100056014",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (3); Personal Care Services (2); Religious Organizations (2); Automotive Repair and Maintenance (1); Child Day Care Services (1).",
+      "from_income": 74167,
+      "from_education": "at a high level in Virginia",
+      "to_cbg": "517100058001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+      "to_income": 47895,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100007001",
+          "Population": 1143,
+          "Distance": 627.5073679396587,
+          "Summary": "Top POI categories: Gasoline Stations (1); Grocery Stores (1); Museums, Historical Sites, and Similar Institutions (1).",
+          "City": "Norfolk city",
+          "Income": 73371,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056023",
+          "Population": 853,
+          "Distance": 609.6568691413785,
+          "Summary": "Top POI categories: Personal and Household Goods Repair and Maintenance (1).",
+          "City": "Norfolk city",
+          "Income": 69432,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002022",
+          "Population": 1023,
+          "Distance": 938.1202335450157,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (2); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 51471,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056022",
+          "Population": 1277,
+          "Distance": 1051.8048248095945,
+          "Summary": "Top POI categories: Automotive Repair and Maintenance (3); Elementary and Secondary Schools (3); Restaurants and Other Eating Places (3); Automotive Parts, Accessories, and Tire Stores (2); Other Miscellaneous Store Retailers (2).",
+          "City": "Norfolk city",
+          "Income": 44432,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056021",
+          "Population": 1282,
+          "Distance": 1061.2476377570767,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 67386,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100007002",
+          "Population": 1684,
+          "Distance": 1437.4356303684042,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Elementary and Secondary Schools (2); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+          "City": "Norfolk city",
+          "Income": 78577,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100006003",
+          "Population": 2572,
+          "Distance": 1860.5867524880593,
+          "Summary": "Top POI categories: Automotive Repair and Maintenance (1); Child Day Care Services (1); Elementary and Secondary Schools (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 42647,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056013",
+          "Population": 1134,
+          "Distance": 1309.5634906036305,
+          "Summary": "Top POI categories: Religious Organizations (2); General Merchandise Stores, including Warehouse Clubs and Supercenters (1); Justice, Public Order, and Safety Activities (1); Other Miscellaneous Store Retailers (1).",
+          "City": "Norfolk city",
+          "Income": 61818,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057011",
+          "Population": 2442,
+          "Distance": 2024.269427163516,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (11); Elementary and Secondary Schools (2); Health and Personal Care Stores (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Activities Related to Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 36738,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002023",
+          "Population": 897,
+          "Distance": 1443.9918623872531,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 51375,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066061",
+          "Population": 1808,
+          "Distance": 2071.5501460590913,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+          "City": "Norfolk city",
+          "Income": 36106,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100058001",
+          "Population": 1312,
+          "Distance": 1876.797810338523,
+          "Summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+          "City": "Norfolk city",
+          "Income": 47895,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100006001",
+          "Population": 718,
+          "Distance": 1389.2843062575998,
+          "Summary": "Top POI categories: Child Day Care Services (1); Elementary and Secondary Schools (1).",
+          "City": "Norfolk city",
+          "Income": 56813,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055001",
+          "Population": 1215,
+          "Distance": 1838.6303644082598,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Restaurants and Other Eating Places (2); Gasoline Stations (1); Other Amusement and Recreation Industries (1); Postal Service (1).",
+          "City": "Norfolk city",
+          "Income": 63646,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100058003",
+          "Population": 1163,
+          "Distance": 1801.2423520501663,
+          "Summary": "Top POI categories: Religious Organizations (4); Restaurants and Other Eating Places (3); Automotive Repair and Maintenance (2); Child Day Care Services (2); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 71094,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002021",
+          "Population": 895,
+          "Distance": 1667.8374373421195,
+          "Summary": "Top POI categories: Agencies, Brokerages, and Other Insurance Related Activities (1); Elementary and Secondary Schools (1).",
+          "City": "Norfolk city",
+          "Income": 80313,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002011",
+          "Population": 1433,
+          "Distance": 2116.3833884917894,
+          "Summary": "Top POI categories: Offices of Real Estate Agents and Brokers (1); Religious Organizations (1); Restaurants and Other Eating Places (1).",
+          "City": "Norfolk city",
+          "Income": 44438,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055002",
+          "Population": 677,
+          "Distance": 1469.6442568245222,
+          "Summary": "Top POI categories: General Merchandise Stores, including Warehouse Clubs and Supercenters (1); Other Schools and Instruction (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 35577,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100002024",
+          "Population": 987,
+          "Distance": 1787.6435755368616,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 58657,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056012",
+          "Population": 624,
+          "Distance": 1490.3624732352207,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 66513,
+          "Education": "at the lowest level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100058001",
+      "llm_thinking": "I chose this CBG because it has a relatively high population and is closer to my current location compared to other options, making it a good fit according to the d-EPR exploration principle. Additionally, it offers a variety of POIs, including child care services and grocery stores, which align with my medium level of education and practical needs."
+    },
+    {
+      "step": 6,
+      "S": 5,
+      "P_new": 0.4279248917449411,
+      "action": "return",
+      "from_cbg": "517100058001",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+      "from_income": 47895,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100058001",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+      "to_income": 47895,
+      "to_education": "at the lowest level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100014003",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Child Day Care Services (1); Elementary and Secondary Schools (1); Management, Scientific, and Technical Consulting Services (1).",
+          "City": "Norfolk city",
+          "Income": 118750,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100055001",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Museums, Historical Sites, and Similar Institutions (2); Restaurants and Other Eating Places (2); Gasoline Stations (1); Other Amusement and Recreation Industries (1); Postal Service (1).",
+          "City": "Norfolk city",
+          "Income": 63646,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100007002",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Elementary and Secondary Schools (2); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+          "City": "Norfolk city",
+          "Income": 78577,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056014",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); Personal Care Services (2); Religious Organizations (2); Automotive Repair and Maintenance (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 74167,
+          "Education": "at a high level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100058001",
+      "llm_thinking": "Invalid CBG chosen by LLM: 517100058001. Reasoning: I chose this CBG because even though it is a new location to visit, my return principle prefers places I have visited before, and this is the only option with the same CBG code as my current location, making it familiar."
+    },
+    {
+      "step": 7,
+      "S": 5,
+      "P_new": 0.4279248917449411,
+      "action": "explore",
+      "from_cbg": "517100058001",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (1); Automotive Repair and Maintenance (1); Child Day Care Services (1); Grocery Stores (1); Health and Personal Care Stores (1).",
+      "from_income": 47895,
+      "from_education": "at the lowest level in Virginia",
+      "to_cbg": "517100059012",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (3); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Personal Care Services (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Grocery Stores (1).",
+      "to_income": 52861,
+      "to_education": "at a high level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100058003",
+          "Population": 1163,
+          "Distance": 600.8989931756004,
+          "Summary": "Top POI categories: Religious Organizations (4); Restaurants and Other Eating Places (3); Automotive Repair and Maintenance (2); Child Day Care Services (2); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 71094,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100058002",
+          "Population": 2020,
+          "Distance": 897.626517830462,
+          "Summary": "Top POI categories: Child Day Care Services (3); Elementary and Secondary Schools (2); Grocery Stores (1); Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 35438,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066061",
+          "Population": 1808,
+          "Distance": 854.0003843826978,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+          "City": "Norfolk city",
+          "Income": 36106,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057011",
+          "Population": 2442,
+          "Distance": 1352.7382203339632,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (11); Elementary and Secondary Schools (2); Health and Personal Care Stores (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Activities Related to Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 36738,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056021",
+          "Population": 1282,
+          "Distance": 1000.1447609027141,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 67386,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056022",
+          "Population": 1277,
+          "Distance": 1233.6593024104136,
+          "Summary": "Top POI categories: Automotive Repair and Maintenance (3); Elementary and Secondary Schools (3); Restaurants and Other Eating Places (3); Automotive Parts, Accessories, and Tire Stores (2); Other Miscellaneous Store Retailers (2).",
+          "City": "Norfolk city",
+          "Income": 44432,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100059011",
+          "Population": 1180,
+          "Distance": 1270.5983478860524,
+          "Summary": "Top POI categories: Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 51964,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066064",
+          "Population": 690,
+          "Distance": 1078.4780424781975,
+          "Summary": "Top POI categories: Automobile Dealers (3); Automotive Repair and Maintenance (2); Colleges, Universities, and Professional Schools (1); Grocery Stores (1); Junior Colleges (1).",
+          "City": "Norfolk city",
+          "Income": 66917,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100059012",
+          "Population": 2052,
+          "Distance": 1942.1547482945932,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); General Merchandise Stores, including Warehouse Clubs and Supercenters (2); Personal Care Services (2); Accounting, Tax Preparation, Bookkeeping, and Payroll Services (1); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 52861,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066063",
+          "Population": 774,
+          "Distance": 1211.1469257273252,
+          "Summary": "No known POIs available for preview in this CBG.",
+          "City": "Norfolk city",
+          "Income": 60260,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100059013",
+          "Population": 1452,
+          "Distance": 1720.2093456122864,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (4); Automotive Repair and Maintenance (2); Bakeries and Tortilla Manufacturing (1); Elementary and Secondary Schools (1); Gasoline Stations (1).",
+          "City": "Norfolk city",
+          "Income": 33382,
+          "Education": "at the lowest level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056014",
+          "Population": 1576,
+          "Distance": 1876.797810338523,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (3); Personal Care Services (2); Religious Organizations (2); Automotive Repair and Maintenance (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 74167,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066022",
+          "Population": 1735,
+          "Distance": 1980.2991564033841,
+          "Summary": "Top POI categories: Automotive Parts, Accessories, and Tire Stores (2); Health and Personal Care Stores (2); Automotive Repair and Maintenance (1); Child Day Care Services (1); General Merchandise Stores, including Warehouse Clubs and Supercenters (1).",
+          "City": "Norfolk city",
+          "Income": 61786,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056023",
+          "Population": 853,
+          "Distance": 1506.566791034705,
+          "Summary": "Top POI categories: Personal and Household Goods Repair and Maintenance (1).",
+          "City": "Norfolk city",
+          "Income": 69432,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057022",
+          "Population": 1094,
+          "Distance": 1769.285993929251,
+          "Summary": "Top POI categories: Agencies, Brokerages, and Other Insurance Related Activities (2); Restaurants and Other Eating Places (2); Administration of Economic Programs (1); Beer, Wine, and Liquor Stores (1); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 59643,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057021",
+          "Population": 1491,
+          "Distance": 2116.3026565397536,
+          "Summary": "Top POI categories: Elementary and Secondary Schools (2); Furniture Stores (2); Individual and Family Services (1).",
+          "City": "Norfolk city",
+          "Income": 40563,
+          "Education": "at a medium level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066062",
+          "Population": 1055,
+          "Distance": 1918.2281127358926,
+          "Summary": "Top POI categories: Religious Organizations (1).",
+          "City": "Norfolk city",
+          "Income": 117903,
+          "Education": "at a high level in Virginia"
+        },
+        {
+          "CBG_Code": "517100066011",
+          "Population": 715,
+          "Distance": 1654.6576475781749,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (2); Automobile Dealers (1); Gasoline Stations (1); Personal Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 75368,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100056013",
+          "Population": 1134,
+          "Distance": 2298.4385444460286,
+          "Summary": "Top POI categories: Religious Organizations (2); General Merchandise Stores, including Warehouse Clubs and Supercenters (1); Justice, Public Order, and Safety Activities (1); Other Miscellaneous Store Retailers (1).",
+          "City": "Norfolk city",
+          "Income": 61818,
+          "Education": "at a low level in Virginia"
+        },
+        {
+          "CBG_Code": "517100057013",
+          "Population": 1563,
+          "Distance": 2753.5688439917412,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Amusement Parks and Arcades (1); Child Day Care Services (1); Depository Credit Intermediation (1).",
+          "City": "Norfolk city",
+          "Income": 35231,
+          "Education": "at a low level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100059012",
+      "llm_thinking": "I chose this CBG because it has a significantly higher median household income and a higher education level, which aligns with my profile, despite being a bit farther away."
     }
   ]
 }
