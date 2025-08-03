@@ -684,6 +684,90 @@
       ],
       "chosen_cbg": "517100056021",
       "llm_thinking": "I chose this CBG because it has a large population and is relatively close, which aligns well with the d-EPR exploration principle, and it offers diverse POIs that could be interesting and convenient for daily use."
+    },
+    {
+      "step": 8,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100056021",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+      "from_income": 67386,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100066061",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "to_income": 36106,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100066061",
+          "Visit_Count": 1,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+          "City": "Norfolk city",
+          "Income": 36106,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100066061",
+      "llm_thinking": "I chose this CBG because I have visited it once before and the d-EPR return principle favors familiar places, despite the lower median household income."
+    },
+    {
+      "step": 9,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100066061",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "from_income": 36106,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100056021",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+      "to_income": 67386,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100056021",
+          "Visit_Count": 3,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+          "City": "Norfolk city",
+          "Income": 67386,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100056021",
+      "llm_thinking": "I chose this CBG because I have visited it three times before, and the d-EPR return principle favors familiar places, despite a different set of POIs compared to my current location."
+    },
+    {
+      "step": 10,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100056021",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (6); Outpatient Care Centers (2); Used Merchandise Stores (2); Automotive Parts, Accessories, and Tire Stores (1); Child Day Care Services (1).",
+      "from_income": 67386,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100066061",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+      "to_income": 36106,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100066061",
+          "Visit_Count": 2,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (6); Grocery Stores (5); Other Motor Vehicle Dealers (2); Agencies, Brokerages, and Other Insurance Related Activities (1); Automobile Dealers (1).",
+          "City": "Norfolk city",
+          "Income": 36106,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100066061",
+      "llm_thinking": "I chose this CBG because I have visited it twice before and the income and education levels are similar to my home city, which aligns with my preference for familiar and comfortable environments."
     }
   ]
 }

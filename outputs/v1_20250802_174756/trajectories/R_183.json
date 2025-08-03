@@ -883,6 +883,90 @@
       ],
       "chosen_cbg": "517100070021",
       "llm_thinking": "I chose this CBG because it has a higher median household income matching my own income level and a medium education level, making it a suitable destination that is also relatively close, aligning well with the d-EPR exploration principle."
+    },
+    {
+      "step": 8,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100070021",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Traveler Accommodation (3); Religious Organizations (2); Automobile Dealers (1); Grocery Stores (1).",
+      "from_income": 77746,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100070011",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (19); Grocery Stores (4); Building Material and Supplies Dealers (3); Religious Organizations (3); Traveler Accommodation (3).",
+      "to_income": 47847,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100070011",
+          "Visit_Count": 3,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (19); Grocery Stores (4); Building Material and Supplies Dealers (3); Religious Organizations (3); Traveler Accommodation (3).",
+          "City": "Norfolk city",
+          "Income": 47847,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100070011",
+      "llm_thinking": "I have visited this CBG more frequently than the other, and it offers a wider variety of POIs, which aligns well with my preferences and lifestyle."
+    },
+    {
+      "step": 9,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100070011",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (19); Grocery Stores (4); Building Material and Supplies Dealers (3); Religious Organizations (3); Traveler Accommodation (3).",
+      "from_income": 47847,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100070021",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (5); Traveler Accommodation (3); Religious Organizations (2); Automobile Dealers (1); Grocery Stores (1).",
+      "to_income": 77746,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100070021",
+          "Visit_Count": 4,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (5); Traveler Accommodation (3); Religious Organizations (2); Automobile Dealers (1); Grocery Stores (1).",
+          "City": "Norfolk city",
+          "Income": 77746,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100070021",
+      "llm_thinking": "I chose this CBG because I have visited it four times before, and the d-EPR return principle favors familiar places. Additionally, it has a higher median household income and more traveler accommodation options, which could be beneficial."
+    },
+    {
+      "step": 10,
+      "S": 2,
+      "P_new": 0.5187223387847191,
+      "action": "return",
+      "from_cbg": "517100070021",
+      "from_city": "Norfolk city",
+      "from_summary": "Top POI categories: Restaurants and Other Eating Places (5); Traveler Accommodation (3); Religious Organizations (2); Automobile Dealers (1); Grocery Stores (1).",
+      "from_income": 77746,
+      "from_education": "at a medium level in Virginia",
+      "to_cbg": "517100070011",
+      "to_city": "Norfolk city",
+      "to_summary": "Top POI categories: Restaurants and Other Eating Places (19); Grocery Stores (4); Building Material and Supplies Dealers (3); Religious Organizations (3); Traveler Accommodation (3).",
+      "to_income": 47847,
+      "to_education": "at a medium level in Virginia",
+      "candidates": [
+        {
+          "CBG_Code": "517100070011",
+          "Visit_Count": 4,
+          "Summary": "Top POI categories: Restaurants and Other Eating Places (19); Grocery Stores (4); Building Material and Supplies Dealers (3); Religious Organizations (3); Traveler Accommodation (3).",
+          "City": "Norfolk city",
+          "Income": 47847,
+          "Education": "at a medium level in Virginia"
+        }
+      ],
+      "chosen_cbg": "517100070011",
+      "llm_thinking": "I chose this CBG because it has a higher count of visitations (4) compared to the other location, aligning with my preference for familiar places, despite a lower median household income."
     }
   ]
 }
